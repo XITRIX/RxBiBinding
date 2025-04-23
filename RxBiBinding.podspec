@@ -30,6 +30,7 @@ Reactive bidirectional (two-way) binding between RxControlProperties and RxVaria
 
   s.ios.deployment_target = '10.0'
   s.osx.deployment_target = '10.9'
+  s.visionos.deployment_target = "1.0"
   s.swift_version = '5.0'
   s.source_files = 'RxBiBinding/Classes/**/*'
 
